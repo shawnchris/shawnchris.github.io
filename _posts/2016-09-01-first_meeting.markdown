@@ -7,7 +7,7 @@ categories: general information
 Goal of this first meeting is to setup video conference and warm up.
 
 * Time  
-2016/09/03 9:00 - 11:00 AM CST
+2016/09/03 9:00 - 11:00 AM CST <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=ODUyZGFvNWM2OTUzYzVzNjdtYjhxbWk0cDAgc2hhd24uY2hyaXMuZ2FvQG0&amp;tmsrc=shawn.chris.gao%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 * Pre-work: Must  
 Read [this post](welcome.html) for Skype setup.  
