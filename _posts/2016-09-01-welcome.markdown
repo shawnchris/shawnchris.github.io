@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Welcome to Shawn's study group!"
+date:   2016-09-01 21:00:00 -0500
+categories: general information
+---
+Glad to re-start our study group! 
+
+* How do we meet?  
+We will try to use Skype as communication platform. Search shawn.chris.gao@outlook.com and add me as friend.
+
+* Where to find study materials we used before?  
+Check out [this folder in my Github](https://github.com/shawnchris/studygroup/tree/master/Shawn)
+
+* Want to check in code to studygroup repo?  
+Sure, [follow me](https://github.com/shawnchris) in Github and I will grant you access.
+
+* What the meeting schedule?  
+Check out [other posts](https://shawnchris.github.io) :)
+
+**Happy Coding!**
