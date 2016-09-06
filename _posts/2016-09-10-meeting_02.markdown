@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "2016/09/10 Meeting Agenda"
+date:   2016-09-06 13:30:00 -0500
+categories: meetings
+---
+
+* Time  
+TBD, [vote here](https://docs.google.com/forms/d/e/1FAIpQLScNosOYmRfHpxxA16hThDzPZKlNdlDNdRxHG4PRabJlIeYVrQ/viewform)  
+
+* Pre-work: Must  
+1. Read [this post](https://shawnchris.github.io/algorithms/2016/09/04/leetcode_contest_03.html) for Leetcode Contest 3.  
+2. Leetcode 1-30 easy problems.  
+  
+* Agenda  
+1. Dongyan shares Binary Indexed Tree  
+2. Mengchao shares Leetcode Contest 3 solutions  
+3. Pick one or two easy problem and try mocked interview  
+
+**See you then!**
