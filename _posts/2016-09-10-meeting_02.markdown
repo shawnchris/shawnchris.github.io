@@ -9,8 +9,9 @@ categories: meetings
 TBD, [vote here](https://docs.google.com/forms/d/e/1FAIpQLScNosOYmRfHpxxA16hThDzPZKlNdlDNdRxHG4PRabJlIeYVrQ/viewform)  
 
 * Pre-work: Must  
-1. Read [this post](https://shawnchris.github.io/algorithms/2016/09/04/leetcode_contest_03.html) for Leetcode Contest 3.  
-2. Leetcode 1-30 easy problems.  
+1. Read [this post](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/) and [this post](http://www.hawstein.com/posts/binary-indexed-trees.html) for Binary Indexed Trees.  
+2. Read [this post](https://shawnchris.github.io/algorithms/2016/09/04/leetcode_contest_03.html) for Leetcode Contest 3.  
+3. Leetcode 1-30 easy problems.  
   
 * Agenda  
 1. Dongyan shares Binary Indexed Tree  
