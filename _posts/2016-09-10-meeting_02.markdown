@@ -6,7 +6,7 @@ categories: meetings
 ---
 
 * Time  
-TBD, [vote here](https://docs.google.com/forms/d/e/1FAIpQLScNosOYmRfHpxxA16hThDzPZKlNdlDNdRxHG4PRabJlIeYVrQ/viewform)  
+2016/09/10 8:00 - 10:00 am <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=c3Ricms3NjZqYm5uOHIxNXFrYjY0ZHIzMGcgc2hhd24uY2hyaXMuZ2FvQG0&amp;tmsrc=shawn.chris.gao%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>  
 
 * Pre-work: Must  
 1. Read [this post](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/) and [this post](http://www.hawstein.com/posts/binary-indexed-trees.html) for Binary Indexed Trees.  
