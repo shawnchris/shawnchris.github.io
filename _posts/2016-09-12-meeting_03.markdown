@@ -13,7 +13,8 @@ categories: meetings
 2. Read [this post](https://shawnchris.github.io/algorithms/2016/09/11/leetcode_contest_04.html) for Leetcode Contest 4.  
 
 * Agenda  
-1. Pick two easy problems and try mocked interview  
-2. Leetcode Contest 4 problems and solutions  
+1. 冰 shares js topics
+2. Pick two easy problems and try mocked interview  
+3. Leetcode Contest 4 problems and solutions  
 
 **See you then!**
