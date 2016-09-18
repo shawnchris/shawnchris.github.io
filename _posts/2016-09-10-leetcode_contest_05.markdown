@@ -6,7 +6,7 @@ categories: algorithms
 ---
 My solutions for your reference
 
-* 400 Nth Digit
+* A400 Nth Digit  
 [Problem](https://leetcode.com/contest/5/problems/nth-digit/)  
 [My Solution](https://github.com/shawnchris/java/blob/master/leetcode/A400_Nth_Digit.java)  
 
