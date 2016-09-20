@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "2016/09/24 Meeting Agenda"
+date:   2016-09-20 13:00:00 -0500
+categories: meetings
+---
+
+* Time  
+2016/09/24 9:00 - 11:00 am <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NWcwcWxmcTUzZHAwNXZ2Nm43cHA1ZHYyOHMgc2hhd24uY2hyaXMuZ2FvQG0&amp;tmsrc=shawn.chris.gao%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>  
+
+* Pre-work: Must  
+1. Leetcode 61-90 easy problems.  
+2. Search Google for jQuery basic knowledge  
+
+* Agenda  
+1. 冰 shares jQuery  
+2. Pick two easy problems and try mocked interview    
+
+**See you then!**
