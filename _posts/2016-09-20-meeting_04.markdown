@@ -11,9 +11,11 @@ categories: meetings
 * Pre-work: Must  
 1. Leetcode 61-90 easy problems.  
 2. Search Google for jQuery basic knowledge  
+3. Read this article of [Reservoir sampling](https://en.wikipedia.org/wiki/Reservoir_sampling)  
 
 * Agenda  
 1. 冰 shares jQuery  
 2. Pick two easy problems and try mocked interview    
+3. Reservoir sampling questions  
 
 **See you then!**
