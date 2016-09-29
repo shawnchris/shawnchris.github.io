@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "2016/10/01 Meeting Agenda"
+date:   2016-09-29 13:30:00 -0500
+categories: meetings
+---
+
+* Time  
+2016/10/01 9:00 - 11:00 am <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N3JpbzZlcWpqbHV1Zm1uamJwMG10N2NiMWMgc2hhd24uY2hyaXMuZ2FvQG0&amp;tmsrc=shawn.chris.gao%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>  
+
+* Pre-work: Must  
+1. Leetcode 91-120 easy problems.  
+2. Search Google for Ajax basic knowledge    
+
+* Agenda  
+1. 冰 shares Ajax  
+2. Pick two easy problems and try mocked interview   
+
+**See you then!**
