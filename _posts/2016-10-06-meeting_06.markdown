@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "2016/10/08 Meeting Agenda"
+date:   2016-10-06 22:00:00 -0500
+categories: meetings
+---
+
+* Time  
+2016/10/08 9:00 - 11:00 am <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=YWllZmwxZmJ0c2I4ZjNoaHBhbmJ1N2w5NGcgc2hhd24uY2hyaXMuZ2FvQG0&amp;tmsrc=shawn.chris.gao%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>  
+
+* Pre-work: Must  
+1. Leetcode 121-150 easy problems.  
+2. Search Google for JavaScript basic knowledge    
+
+* Agenda  
+1. 冰 shares JS
+2. 阿熊 shares how internet works    
+3. Pick two easy problems and try mocked interview   
+
+**See you then!**
